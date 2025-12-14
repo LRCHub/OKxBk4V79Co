@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ロック・ミー・アマデウス",
+  "base_artist": "Falco",
+  "createdAt": "2025-12-14T17:25:02.146328Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Rock me Amadeus",
+      "artist": "Falco",
+      "has_synced": false,
+      "path": "select/pl_01_Rock_me_Amadeus_Falco.txt"
+    }
+  ]
+}
